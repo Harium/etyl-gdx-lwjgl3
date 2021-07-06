@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.harium.etyl</groupId>
     <artifactId>etyl-gdx-lwjgl3</artifactId>
-    <version>1.9.11</version>
+    <version>1.10.0</version>
     <properties>
-        <libgdx.version>1.9.11</libgdx.version>
+        <libgdx.version>1.10.0</libgdx.version>
         <javadoc.opts>-Xdoclint:none</javadoc.opts>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <gpg.executable>gpg2</gpg.executable>
     </properties>
-    <name>Etyl GDX Lwjgl Backend</name>
+    <name>Etyl GDX Lwjgl3 Backend</name>
     <description>An Etyl's GDX backend based on lwjgl3</description>
     <url>http://github.com/harium/etyl-gdx-lwjgl3</url>
     <scm>
@@ -51,7 +51,7 @@
         <dependency>
             <groupId>com.harium.etyl</groupId>
             <artifactId>etyl-gdx</artifactId>
-            <version>1.5.0</version>
+            <version>1.10.0</version>
         </dependency>
         <dependency>
             <groupId>com.harium.etyl</groupId>
